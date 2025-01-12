@@ -1,0 +1,26 @@
+{
+    "name": "auralv0 PWA",
+    "short_name": "auralv0",
+    "description": "auralv0 Progressive Web App",
+    "start_url": "/auralv0/",
+    "scope": "/auralv0/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "/auralv0/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/auralv0/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "portrait",
+    "prefer_related_applications": false
+}
